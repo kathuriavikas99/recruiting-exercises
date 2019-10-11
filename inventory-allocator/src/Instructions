@@ -1,0 +1,9 @@
+Instructions for running Tests:
+
+Both .py files should be in same directory. Tests are run by orderTest.py file.
+
+
+Features that could have been included:
+- Exception Handling at various steps.
+- Logging to enable debigging when this functionality is exposed as a microservice.
+- Deatiled Comments.
