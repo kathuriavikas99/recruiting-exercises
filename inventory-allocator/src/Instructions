@@ -5,7 +5,8 @@ Both .py files should be in same directory. Tests are run by orderTest.py file.
 
 Features that could have been included:
 - Exception Handling at various steps.
-- Concurrency in terms of multithreading/multiprocessing for fulfill the order if collective inventory is available, independent threads can be used to process each item in order then(multithreading poses limitation dur to GIL).
+- Concurrency in terms of multithreading/multiprocessing for fulfill the order if collective inventory is available, 
+  independent threads can be used to process each item in order then(multithreading poses limitation dur to GIL).
 - Logging to enable debigging when this functionality is exposed as a microservice.
 - Detailed Comments.
 
